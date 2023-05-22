@@ -1,0 +1,4 @@
+initialization
+raylib
+
+	^ Raylib uniqueInstance
